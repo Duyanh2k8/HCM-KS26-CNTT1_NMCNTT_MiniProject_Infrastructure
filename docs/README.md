@@ -31,11 +31,11 @@ greentech-system/
 ## 3. Huong dan chay script
 Mo PowerShell tai thu muc goc du an:
 ```powershell
-cmd.exe /c ".\\scripts\\auto\_report.bat"
+cmd.exe /c ".\scripts\auto_report.bat"
 ```
 Xem bao cao:
 ```powershell
-Get-Content .\\backup\\bao-cao-su-co.txt
+Get-Content .\backup\bao-cao-su-co.txt
 ```
 ## 4. Checklist kiem tra he thong
 - [ ] Kiem tra file log ton tai.
