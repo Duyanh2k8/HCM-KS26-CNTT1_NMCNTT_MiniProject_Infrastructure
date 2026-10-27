@@ -1,0 +1,18 @@
+ERROR: Loi ket noi database
+CRITICAL: Thiet bi qua nhiet
+======================================== 
+GREENTECH SYSTEM - ERROR REPORT 
+Thoi gian: Tue 10/27/2026 15:25:26.64 
+======================================== 
+ERROR 404: Khong tim thay tai nguyen
+CRITICAL: Nhiet do tram IoT vuot nguong
+TIMEOUT: Ket noi may chu that bai
+ERROR: Loi ket noi database
+======================================== 
+GREENTECH SYSTEM - ERROR REPORT 
+Thoi gian: Tue 10/27/2026 15:46:24.22 
+======================================== 
+ERROR 404: Khong tim thay tai nguyen
+CRITICAL: Nhiet do tram IoT vuot nguong
+TIMEOUT: Ket noi may chu that bai
+ERROR: Loi ket noi database
